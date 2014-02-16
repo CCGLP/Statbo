@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="asset64" tilewidth="64" tileheight="64">
+  <image source="../images/asset64.png" width="512" height="384"/>
+ </tileset>
+ <layer name="Fondo" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwTZWBgEEXDTEg0PswHxGxoGN0sdPNYkDCIzwjFpJiH7jZ85qFjUt1HCBPrPmLMwmUeIfcxI/mbmUT3MaPR5JhHKL1Q4j5SMTnuozR+h5P7uKmM0fMzNkysulE8+DAAH2sMDg==
+  </data>
+ </layer>
+</map>
